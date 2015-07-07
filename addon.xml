@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.buddharadio" name="Buddha Radio" version="0.1" provider-name="DoubleT">
+<addon id="plugin.audio.triplemclassicrock" name="Triple M Classic Rock" version="0.1" provider-name="doctorjbeam">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -7,15 +7,15 @@
     <provides>audio</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Buddha Radio.com.au - Live Stream</summary>
-    <description lang="en">BuddhaRadio.com.au</description>
+    <summary lang="en">Triple M Classic Rock - Live Stream</summary>
+    <description lang="en">TripleMClassicRock.com.au</description>
     <disclaimer lang="en"></disclaimer>
     <language>English</language>
     <platform>all</platform>
     <license></license>
     <forum></forum>
-    <website>http://www.buddharadio.com.au</website>
-    <email>oli@whitenoisehq.co.uk</email>
+    <website>https://github.com/doctorjbeam/plugin.audio.triplemclassicrock</website>
+    <email></email>
     <source></source>
   </extension>
 </addon>
